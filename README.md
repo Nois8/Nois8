@@ -1,6 +1,23 @@
-## Hi there 👋
+<h1 align="center"> Hi there  I,m Nois<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+Student;Always+learning+new+things" />
+</a>
+</p>
 
 
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+I am a Full Stack Web Development student (DAW) with a passion for building clean, scalable, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+
+🔭 Currently working on: Enhancing my Portfolio and refining my Backend skills.
+
+🌱 Learning: Advanced React patterns, Node.js optimization, and Cloud Deployment.
 
 ## My Skills Include
 
@@ -35,15 +52,9 @@
 💬 Social
 
 
-<a href="https://www.instagram.com/_noiis11/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="(https://www.tiktok.com/@_nois11/)">
-<img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="https://www.instagram.com/_noiis11/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="(https://www.tiktok.com/@_nois11/)"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
@@ -63,6 +74,5 @@
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  
 </p>
-<br>
