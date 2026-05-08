@@ -44,13 +44,13 @@ I am a Full Stack Web Development student (DAW) with a passion for building clea
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 
-### <picture> <img src = "https://github.com/Nois8/Nois8/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-0f172a?style=flat-square)
 
-💬 Social
 
+### <picture> <img src="https://cdn-icons-png.flaticon.com/512/2099/2099100.png" width="20px"> </picture>  Social
 
 <a href="https://www.instagram.com/_noiis11/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="(https://www.tiktok.com/@_nois11/)"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
