@@ -54,9 +54,9 @@
     alt="example" />
 </p>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Nois&theme=material-palenight)](https://github.com/Nois8)
+
+
 
 
 
