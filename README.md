@@ -50,7 +50,7 @@ I am a Full Stack Web Development student (DAW) with a passion for building clea
 ![Antigravity](https://img.shields.io/badge/Antigravity-0f172a?style=flat-square)
 
 
-### <picture> <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="20px"> </picture>  Teléfono
+### <picture> <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="20px"> </picture>  Social
 
 <a href="https://www.instagram.com/_noiis11/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="(https://www.tiktok.com/@_nois11/)"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
