@@ -33,7 +33,8 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-0f172a?style=flat-square)
 
 💬 Social
-<br>
+
+
 <a href="https://www.instagram.com/_noiis11/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
@@ -43,11 +44,22 @@
 <a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</br>
 
 
 
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Nois8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Nois8)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Nois8&theme=material-palenight)](https://github.com/Nois8)
+</div>
+
 
 
 <p align="center">
