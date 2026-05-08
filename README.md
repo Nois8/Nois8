@@ -38,7 +38,7 @@
 <a href="https://www.instagram.com/_noiis11/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="(https://www.tiktok.com/@_nois11)">
+<a href="(https://www.tiktok.com/@_nois11/)">
 <img src="(![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)">
 </a>
 <a href="https://www.linkedin.com/feed/">
